@@ -1,0 +1,4 @@
+{
+  "model_name": "microsoft/Phi-3.5-vision-instruct",
+  "output_dir": "./output/vision_phase1"
+}

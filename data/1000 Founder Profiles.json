@@ -1,0 +1,1983 @@
+[
+  {
+    "name": "Rick Song",
+    "sector": "Cybersecurity",
+    "location": "San Francisco, USA",
+    "funding_stage": "Series C",
+    "past_experience": "Ex-Square Engineer",
+    "goal": "Scaling AI-driven identity verification globally"
+  },
+  {
+    "name": "Charles Yeh",
+    "sector": "Cybersecurity",
+    "location": "San Francisco, USA",
+    "funding_stage": "Series C",
+    "past_experience": "Ex-Dropbox Engineer",
+    "goal": "Expanding Persona’s identity solutions for enterprises"
+  },
+  {
+    "name": "Nathan Barry",
+    "sector": "SaaS",
+    "location": "Boise, USA",
+    "funding_stage": "Bootstrapped",
+    "past_experience": "Ex-Ebook Author",
+    "goal": "Empowering creators with ConvertKit’s email marketing tools"
+  },
+  {
+    "name": "Laura Roeder",
+    "sector": "SaaS",
+    "location": "Austin, USA",
+    "funding_stage": "Bootstrapped",
+    "past_experience": "Ex-MeetEdgar Founder",
+    "goal": "Streamlining coaching businesses with PaperBell"
+  },
+  {
+    "name": "Jen Dewalt",
+    "sector": "Fintech",
+    "location": "Toronto, Canada",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-LunchMoney Developer",
+    "goal": "Simplifying personal finance with AI-driven budgeting"
+  },
+  {
+    "name": "Fatima Zaidi",
+    "sector": "Media Tech",
+    "location": "Toronto, Canada",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Podcast Producer",
+    "goal": "Scaling Quill’s podcast analytics platform"
+  },
+  {
+    "name": "Sarah Stockdale",
+    "sector": "EdTech",
+    "location": "Vancouver, Canada",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Marketing Consultant",
+    "goal": "Training equity-deserving marketers with Growclass"
+  },
+  {
+    "name": "Etosha Cave",
+    "sector": "Climate Tech",
+    "location": "Livermore, USA",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Research Scientist",
+    "goal": "Recycling CO2 into jet fuel with Twelve’s tech"
+  },
+  {
+    "name": "Kimberlie Le",
+    "sector": "FoodTech",
+    "location": "Oakland, USA",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Food Industry Entrepreneur",
+    "goal": "Scaling koji-based meats with Prime Roots"
+  },
+  {
+    "name": "Daryna Kulya",
+    "sector": "SaaS",
+    "location": "San Francisco, USA",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Zapier Product Manager",
+    "goal": "Scaling OpenPhone’s business communication platform"
+  },
+  {
+    "name": "Alex Zhao",
+    "sector": "Healthcare AI",
+    "location": "Singapore",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Google Researcher",
+ "goal": "Scaling predictive healthcare analytics in SE Asia"
+  },
+  {
+    "name": "Priya Sharma",
+    "sector": "Fintech",
+    "location": "Mumbai, India",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Goldman Sachs Analyst",
+    "goal": "Building decentralized lending for small businesses"
+  },
+  {
+    "name": "Liam Carter",
+    "sector": "EdTech",
+    "location": "London, UK",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Former High School Teacher",
+    "goal": "Personalized learning for underserved schools"
+  },
+  {
+    "name": "Sofia Mendes",
+    "sector": "Climate Tech",
+    "location": "Sao Paulo, Brazil",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Tesla Engineer",
+    "goal": "Affordable solar storage for rural communities"
+  },
+  {
+    "name": "Noah Kim",
+    "sector": "Gaming",
+    "location": "Seoul, South Korea",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Blizzard Game Designer",
+    "goal": "Creating immersive VR multiplayer experiences"
+  },
+  {
+    "name": "Aisha Khan",
+    "sector": "E-commerce",
+    "location": "Dubai, UAE",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Amazon Product Manager",
+    "goal": "Streamlining cross-border luxury goods trade"
+  },
+  {
+    "name": "Mateo Ruiz",
+    "sector": "Logistics",
+    "location": "Mexico City, Mexico",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Uber Operations Lead",
+    "goal": "Optimizing last-mile delivery with drones"
+  },
+  {
+    "name": "Emma Nguyen",
+    "sector": "Cybersecurity",
+    "location": "San Francisco, USA",
+    "funding_stage": "Series C",
+    "past_experience": "Ex-Palantir Security Engineer",
+    "goal": "AI-driven threat detection for enterprises"
+  },
+  {
+    "name": "Lucas Weber",
+    "sector": "AgTech",
+    "location": "Berlin, Germany",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Former Agricultural Scientist",
+    "goal": "Automating sustainable farming with IoT"
+  },
+  {
+    "name": "Zara Patel",
+    "sector": "Healthtech",
+    "location": "Toronto, Canada",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-NHS Data Analyst",
+    "goal": "Mental health diagnostics with wearables"
+  },
+  {
+    "name": "Omar Hassan",
+    "sector": "PropTech",
+    "location": "Cairo, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Real Estate Developer",
+    "goal": "Digitizing property transactions in the Middle East"
+  },
+  {
+    "name": "Isabella Costa",
+    "sector": "FoodTech",
+    "location": "Lisbon, Portugal",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Nestlé Supply Chain Manager",
+    "goal": "Scaling plant-based protein in Europe"
+  },
+  {
+    "name": "Arjun Desai",
+    "sector": "AI SaaS",
+    "location": "Bangalore, India",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Microsoft AI Engineer",
+    "goal": "Automating customer support with conversational AI"
+  },
+  {
+    "name": "Elena Petrova",
+    "sector": "Retail Tech",
+    "location": "Moscow, Russia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Walmart Inventory Planner",
+    "goal": "Enhancing in-store shopping with AR navigation"
+  },
+  {
+    "name": "Hiro Tanaka",
+    "sector": "Robotics",
+    "location": "Tokyo, Japan",
+    "funding_stage": "Series C",
+    "past_experience": "Ex-Fanuc Robotics Engineer",
+    "goal": "Autonomous robots for warehouse automation"
+  },
+  {
+    "name": "Chloe Dupont",
+    "sector": "Travel Tech",
+    "location": "Paris, France",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Airbnb Host Manager",
+    "goal": "Personalizing travel with AI recommendations"
+  },
+  {
+    "name": "Ethan Brooks",
+    "sector": "InsurTech",
+    "location": "New York, USA",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-MetLife Actuary",
+    "goal": "Simplifying insurance claims with blockchain"
+  },
+  {
+    "name": "Fatima Ali",
+    "sector": "EdTech",
+    "location": "Lagos, Nigeria",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Nonprofit Education Coordinator",
+    "goal": "Affordable e-learning for African students"
+  },
+  {
+    "name": "Diego Morales",
+    "sector": "Clean Energy",
+    "location": "Santiago, Chile",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-BP Renewable Energy Consultant",
+    "goal": "Expanding wind energy in Latin America"
+  },
+  {
+    "name": "Mei Chen",
+    "sector": "Biotech",
+    "location": "Shanghai, China",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Pfizer Research Scientist",
+    "goal": "Gene-editing therapies for rare diseases"
+  },
+  {
+    "name": "Samir Rao",
+    "sector": "HR Tech",
+    "location": "Hyderabad, India",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-LinkedIn Recruiter",
+    "goal": "Automating talent acquisition with AI"
+  },
+  {
+    "name": "Lila Becker",
+    "sector": "Fashion Tech",
+    "location": "Milan, Italy",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Zara Designer",
+    "goal": "Sustainable fabrics with 3D printing"
+  },
+  {
+    "name": "Amir Hossein",
+    "sector": "Mobility",
+    "location": "Tehran, Iran",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Lyft Operations Manager",
+    "goal": "Electric scooter sharing in the Middle East"
+  },
+  {
+    "name": "Sophie Lim",
+    "sector": "Legal Tech",
+    "location": "Sydney, Australia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Corporate Lawyer",
+    "goal": "Automating contract review for SMEs"
+  },
+  {
+    "name": "Ravi Kumar",
+    "sector": "AdTech",
+    "location": "Delhi, India",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Facebook Ad Specialist",
+    "goal": "Optimizing programmatic advertising with AI"
+  },
+  {
+    "name": "Clara Voss",
+    "sector": "Healthtech",
+    "location": "Stockholm, Sweden",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Philips Medical Engineer",
+    "goal": "Non-invasive glucose monitoring devices"
+  },
+  {
+    "name": "Jasper Lee",
+    "sector": "AI SaaS",
+    "location": "Hong Kong",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-IBM Data Scientist",
+    "goal": "Real-time analytics for retail chains"
+  },
+  {
+    "name": "Nadia Farooq",
+    "sector": "Climate Tech",
+    "location": "Karachi, Pakistan",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-UN Climate Researcher",
+    "goal": "Carbon capture for industrial plants"
+  },
+  {
+    "name": "Victor Silva",
+    "sector": "Gaming",
+    "location": "Buenos Aires, Argentina",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-EA Game Developer",
+    "goal": "Cross-platform esports titles"
+  },
+  {
+    "name": "Anika Gupta",
+    "sector": "Fintech",
+    "location": "Jakarta, Indonesia",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-PayPal Product Lead",
+    "goal": "Expanding mobile payments in SE Asia"
+  },
+  {
+    "name": "Leo Fischer",
+    "sector": "Cybersecurity",
+    "location": "Tel Aviv, Israel",
+    "funding_stage": "Series C",
+    "past_experience": "Ex-Unit 8200 Cyber Analyst",
+    "goal": "Securing IoT with zero-trust architecture"
+  },
+  {
+    "name": "Maya Ortiz",
+    "sector": "FoodTech",
+    "location": "Bogota, Colombia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Delivery Hero Operations",
+    "goal": "Scaling urban farming with hydroponics"
+  },
+  {
+    "name": "Tariq Malik",
+    "sector": "Logistics",
+    "location": "Riyadh, Saudi Arabia",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-DHL Supply Chain Manager",
+    "goal": "Automating port logistics with AI"
+  },
+  {
+    "name": "Elena Suarez",
+    "sector": "EdTech",
+    "location": "Madrid, Spain",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-University Professor",
+    "goal": "Gamifying STEM education for kids"
+  },
+  {
+    "name": "Kai Wong",
+    "sector": "Healthtech",
+    "location": "Kuala Lumpur, Malaysia",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Roche Clinical Researcher",
+    "goal": "Improving telemedicine in rural areas"
+  },
+  {
+    "name": "Sven Larsen",
+    "sector": "Clean Energy",
+    "location": "Oslo, Norway",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Statoil Engineer",
+    "goal": "Scaling wave energy for coastal regions"
+  },
+  {
+    "name": "Rhea Kapoor",
+    "sector": "Media Tech",
+    "location": "Los Angeles, USA",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Netflix Content Strategist",
+    "goal": "AI-driven content recommendation engines"
+  },
+  {
+    "name": "Ahmed Zaki",
+    "sector": "PropTech",
+    "location": "Amman, Jordan",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Property Developer",
+    "goal": "Virtual property tours for real estate"
+  },
+  {
+    "name": "Lina Zhou",
+    "sector": "Biotech",
+    "location": "Beijing, China",
+    "funding_stage": "Series C",
+    "past_experience": "Ex-Gilead Scientist",
+    "goal": "CRISPR-based cancer treatments"
+  },
+  {
+    "name": "Gabriel Ortiz",
+    "sector": "Mobility",
+    "location": "Lima, Peru",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Bolt Driver Operations",
+    "goal": "E-bike rentals in urban centers"
+  },
+  {
+    "name": "Sana Iqbal",
+    "sector": "HR Tech",
+    "location": "Islamabad, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Workday Consultant",
+    "goal": "Streamlining remote hiring with AI"
+  },
+  {
+    "name": "Theo Martin",
+    "sector": "Retail Tech",
+    "location": "Amsterdam, Netherlands",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-H&M Supply Chain Lead",
+    "goal": "Optimizing inventory with predictive analytics"
+  },
+  {
+    "name": "Yuki Sato",
+    "sector": "Robotics",
+    "location": "Osaka, Japan",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-SoftBank Robotics Engineer",
+    "goal": "Companion robots for elderly care"
+  },
+  {
+    "name": "Ava Thompson",
+    "sector": "Fashion Tech",
+    "location": "Cape Town, South Africa",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Fashion Retail Buyer",
+    "goal": "Virtual fitting rooms for e-commerce"
+  },
+  {
+    "name": "Omar Farid",
+    "sector": "AdTech",
+    "location": "Istanbul, Turkey",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Google Ads Specialist",
+    "goal": "Personalizing ad campaigns with ML"
+  },
+  {
+    "name": "Julia Braun",
+    "sector": "Climate Tech",
+    "location": "Vienna, Austria",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Greenpeace Researcher",
+    "goal": "Scaling reforestation with drone planting"
+  },
+  {
+    "name": "Rahul Menon",
+    "sector": "Fintech",
+    "location": "Manila, Philippines",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Bank of America Analyst",
+    "goal": "Microfinance apps for rural communities"
+  },
+  {
+    "name": "Clara Kim",
+    "sector": "Healthtech",
+    "location": "Busan, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Samsung AliveCor",
+    "goal": "AI diagnostics for early cancer detection"
+  },
+  {
+    "name": "Milo Becker",
+    "sector": "Gaming",
+    "location": "Montreal, Canada",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Ubisoft Developer",
+    "goal": "Narrative-driven indie games"
+  },
+  {
+    "name": "Layla Nasser",
+    "sector": "EdTech",
+    "location": "Beirut, Lebanon",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-NGO Education Lead",
+    "goal": "Arabic-language learning apps for kids"
+  },
+  {
+    "name": "Carlos Vega",
+    "sector": "Logistics",
+    "location": "San Juan, Puerto Rico",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-FedEx Operations Manager",
+    "goal": "Freight logistics with blockchain"
+  },
+  {
+    "name": "Evelyn Wu",
+    "sector": "AI SaaS",
+    "location": "Taipei, Taiwan",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Apple ML Engineer",
+    "goal": "Automating business intelligence with AI"
+  },
+  {
+    "name": "Nico Fischer",
+    "sector": "Clean Energy",
+    "location": "Copenhagen, Denmark",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Vestas Wind Engineer",
+    "goal": "Offshore wind farms with modular turbines"
+  },
+  {
+    "name": "Zoe Parker",
+    "sector": "Travel Tech",
+    "location": "Miami, USA",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Expedia Marketing Lead",
+    "goal": "AI travel agents for budget travelers"
+  },
+  {
+    "name": "Imran Qureshi",
+    "sector": "PropTech",
+    "location": "Doha, Qatar",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Real Estate Investor",
+    "goal": "Commercial leasing with smart contracts"
+  },
+  {
+    "name": "Sofia Almeida",
+    "sector": "FoodTech",
+    "location": "Athens, Greece",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Food Scientist",
+    "goal": "Lab-grown seafood for Mediterranean markets"
+  },
+  {
+    "name": "Rohan Sethi",
+    "sector": "Fintech",
+    "location": "Nairobi, Kenya",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-M-Pesa Product Manager",
+    "goal": "Mobile banking for unbanked populations"
+  },
+  {
+    "name": "Lena Hoffmann",
+    "sector": "Cyber  Cybersecurity",
+    "location": "Zurich, Switzerland",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Credit Suisse IT Security",
+    "goal": "Protecting financial institutions from ransomware"
+  },
+  {
+    "name": "Alejandro Torres",
+    "sector": "Mobility",
+    "location": "Quito, Ecuador",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Taxi Fleet Manager",
+    "goal": "Carpooling apps for urban commuters"
+  },
+  {
+    "name": "Hana Mori",
+    "sector": "Retail Tech",
+    "location": "Fukuoka, Japan",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Rakuten E-commerce Lead",
+    "goal": "Enhancing online retail with AI chatbots"
+  },
+  {
+    "name": "Malik Jones",
+    "sector": "Media Tech",
+    "location": "Atlanta, USA",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Turner Broadcasting Producer",
+    "goal": "Short-form video platforms for creators"
+  },
+  {
+    "name": "Vera Sokolova",
+    "sector": "Biotech",
+    "location": "Prague, Czech Republic",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Novartis Researcher",
+    "goal": "Stem cell therapies for neurological disorders"
+  },
+  {
+    "name": "Tunde Adebayo",
+    "sector": "Healthtech",
+    "location": "Accra, Ghana",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-WHO Epidemiologist",
+    "goal": "Vaccine distribution with cold chain tech"
+  },
+  {
+    "name": "Amara Diallo",
+    "sector": "Fintech & AgTech",
+    "location": "Dakar, Senegal",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Microfinance Consultant",
+    "goal": "Microloans with crop yield analytics for farmers"
+  },
+  {
+    "name": "Hugo Leclerc",
+    "sector": "Fashion & Blockchain",
+    "location": "Brussels, Belgium",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Luxury Brand Marketer",
+    "goal": "Sustainable fashion supply chains with NFTs"
+  },
+  {
+    "name": "Nia Brooks",
+    "sector": "Healthtech & EdTech",
+    "location": "Houston, USA",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Hospital Administrator",
+    "goal": "Telemedicine with medical training platforms"
+  },
+  {
+    "name": "Vikram Singh",
+    "sector": "Logistics & AI",
+    "location": "Pune, India",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Startup Founder",
+    "goal": "Freight routes with reinforcement learning"
+  },
+  {
+    "name": "Lara Mendes",
+    "sector": "Retail & Climate Tech",
+    "location": "Rio de Janeiro, Brazil",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Consumer Goods Analyst",
+    "goal": "Reducing retail waste with circular economy tech"
+  },
+  {
+    "name": "Omar Saleh",
+    "sector": "Fintech & PropTech",
+    "location": "Kuwait City, Kuwait",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Investment Banker",
+    "goal": "Tokenizing real estate for fractional ownership"
+  },
+  {
+    "name": "Anya Volkov",
+    "sector": "Gaming & HR Tech",
+    "location": "Kyiv, Ukraine",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Gameloft Developer",
+    "goal": "Gamification for corporate training"
+  },
+  {
+    "name": "Tao Zhang",
+    "sector": "Biotech & Robotics",
+    "location": "Chengdu, China",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Medical Device Engineer",
+    "goal": "Automating lab processes with robotic arms"
+  },
+  {
+    "name": "Esme Clarke",
+    "sector": "FoodTech & Mobility",
+    "location": "Bristol, UK",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Food Delivery Startup",
+    "goal": "Fresh produce delivery with electric vans"
+  },
+  {
+    "name": "Karim Younis",
+    "sector": "AdTech & Travel Tech",
+    "location": "Tunis, Tunisia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Travel Agency Owner",
+    "goal": "Personalizing travel ads with behavioral data"
+  },
+  {
+    "name": "Kieran Walsh",
+    "sector": "Stealth Startup",
+    "location": "Unknown",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Cryptocurrency Trader",
+    "goal": "Disrupting an undisclosed industry"
+  },
+  {
+    "name": "Zainab Mir",
+    "sector": "Undisclosed",
+    "location": "Somewhere in Europe",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Consultant",
+    "goal": "Building something innovative, details TBD"
+  },
+  {
+    "name": "Rex Huang",
+    "sector": "Stealth Mode",
+    "location": "Remote",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Serial Entrepreneur",
+    "goal": "Pioneering a paradigm shift in a secret sector"
+  },
+  {
+    "name": "Mira Voss",
+    "sector": "TBD",
+    "location": "Global",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-VC Analyst",
+    "goal": "Exploring high-impact opportunities"
+  },
+  {
+    "name": "Jaden Park",
+    "sector": "Undisclosed Innovation",
+    "location": "Classified",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Defense Contractor",
+    "goal": "Redefining an industry, details under wraps"
+  },
+  {
+    "name": "Elena Ricci",
+    "sector": "Fintech",
+    "location": "Rome, Italy",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-JPMorgan Analyst",
+    "goal": "Streamlining cross-border payments"
+  },
+  {
+    "name": "Aditya Patel",
+    "sector": "Healthtech",
+    "location": "Ahmedabad, India",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Medtronic Engineer",
+    "goal": "Affordable prosthetics with 3D printing"
+  },
+  {
+    "name": "Sophie Moreau",
+    "sector": "EdTech",
+    "location": "Brussels, Belgium",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Language Tutor",
+    "goal": "AI-driven language learning apps"
+  },
+  {
+    "name": "Ibrahim Khalil",
+    "sector": "Logistics",
+    "location": "Dhaka, Bangladesh",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Maersk Operations Lead",
+    "goal": "Optimizing supply chains with IoT"
+  },
+  {
+    "name": "Camila Diaz",
+    "sector": "Climate Tech",
+    "location": "Montevideo, Uruguay",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Environmental Consultant",
+    "goal": "Scaling biochar production for soil health"
+  },
+  {
+    "name": "Kenji Yamada",
+    "sector": "AI SaaS",
+    "location": "Kyoto, Japan",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Sony AI Researcher",
+    "goal": "Predictive maintenance for manufacturing"
+  },
+  {
+    "name": "Nora Jensen",
+    "sector": "Clean Energy",
+    "location": "Reykjavik, Iceland",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Geothermal Engineer",
+    "goal": "Expanding geothermal energy solutions"
+  },
+  {
+    "name": "Salim Omar",
+    "sector": "PropTech",
+    "location": "Casablanca, Morocco",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Real Estate Agent",
+    "goal": "Digital property management platforms"
+  },
+  {
+    "name": "Anita Wong",
+    "sector": "Fashion Tech",
+    "location": "Bangkok, Thailand",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Fashion Designer",
+    "goal": "Custom-fit clothing with AI sizing"
+  },
+  {
+    "name": "Matej Novak",
+    "sector": "Cybersecurity",
+    "location": "Ljubljana, Slovenia",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Ethical Hacker",
+    "goal": "Protecting SMEs from phishing attacks"
+  },
+  {
+    "name": "Lila Hassan",
+    "sector": "FoodTech",
+    "location": "Algiers, Algeria",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Agronomist",
+    "goal": "Scaling insect-based protein production"
+  },
+  {
+    "name": "Oscar Lund",
+    "sector": "Mobility",
+    "location": "Helsinki, Finland",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Nokia Engineer",
+    "goal": "Autonomous urban transport pods"
+  },
+  {
+    "name": "Meera Kapoor",
+    "sector": "Media Tech",
+    "location": "Chennai, India",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Bollywood Producer",
+    "goal": "OTT platform for regional content"
+  },
+  {
+    "name": "Felix Braun",
+    "sector": "Biotech",
+    "location": "Munich, Germany",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Bayer Scientist",
+    "goal": "Synthetic biology for sustainable chemicals"
+  },
+  {
+    "name": "Amina Bello",
+    "sector": "EdTech",
+    "location": "Abuja, Nigeria",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Teacher",
+    "goal": "Mobile learning for rural students"
+  },
+  {
+    "name": "Rafael Costa",
+    "sector": "Gaming",
+    "location": "Santiago, Dominican Republic",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Indie Game Developer",
+    "goal": "Mobile games for Latin American markets"
+  },
+  {
+    "name": "Yara Mahmoud",
+    "sector": "Fintech",
+    "location": "Manama, Bahrain",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-HSBC Banker",
+    "goal": "Islamic finance apps for millennials"
+  },
+  {
+    "name": "Dmitri Ivanov",
+    "sector": "AI SaaS",
+    "location": "Tallinn, Estonia",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Skype Engineer",
+    "goal": "Automating compliance for GDPR"
+  },
+  {
+    "name": "Clara Moreno",
+    "sector": "Healthtech",
+    "location": "Valencia, Spain",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Pharmacist",
+    "goal": "AI-driven drug interaction alerts"
+  },
+  {
+    "name": "Hassan Raza",
+    "sector": "Logistics",
+    "location": "Lahore, Pakistan",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Careem Operations",
+    "goal": "Crowdsourced delivery for SMEs"
+  },
+  {
+    "name": "Leila Chang",
+    "sector": "Retail Tech",
+    "location": "Ho Chi Minh City, Vietnam",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Shopee Product Manager",
+    "goal": "Omnichannel retail solutions"
+  },
+  {
+    "name": "Tomasz Kowalski",
+    "sector": "Clean Energy",
+    "location": "Warsaw, Poland",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Orlen Engineer",
+    "goal": "Hydrogen fuel cells for transport"
+  },
+  {
+    "name": "Fatima Syed",
+    "sector": "PropTech",
+    "location": "Muscat, Oman",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Property Manager",
+    "goal": "Rental platforms for expats"
+  },
+  {
+    "name": "Lucas Ferreira",
+    "sector": "FoodTech",
+    "location": "Recife, Brazil",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Food Startup Founder",
+    "goal": "Meal kits for busy professionals"
+  },
+  {
+    "name": "Amir Reza",
+    "sector": "Cybersecurity",
+    "location": "Shiraz, Iran",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Security Consultant",
+    "goal": "Endpoint security for remote work"
+  },
+  {
+    "name": "Sana Khan",
+    "sector": "Fashion Tech",
+    "location": "Karachi, Pakistan",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Retail",
+    "goal": "Sustainable apparel with blockchain"
+  },
+  {
+    "name": "Jonas Berg",
+    "sector": "Mobility",
+    "location": "Gothenburg, Sweden",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Volvo Engineer",
+    "goal": "Electric vehicle charging networks"
+  },
+  {
+    "name": "Rina Tanaka",
+    "sector": "Media Tech",
+    "location": "Sapporo, Japan",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Ad Agency Creative",
+    "goal": "Interactive video ads with AI"
+  },
+  {
+    "name": "Omar Bahri",
+    "sector": "EdTech",
+    "location": "Tunis, Tunisia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Education NGO",
+    "goal": "Vocational training apps for youth"
+  },
+  {
+    "name": "Nina Petrova",
+    "sector": "Biotech",
+    "location": "Sofia, Bulgaria",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Genomics Researcher",
+    "goal": "Personalized nutrition with DNA analysis"
+  },
+  {
+    "name": "Elias Nunez",
+    "sector": "Gaming",
+    "location": "San Salvador, El Salvador",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Mobile Game Developer",
+    "goal": "Augmented reality games for tourism"
+  },
+  {
+    "name": "Zoe Lin",
+    "sector": "Fintech",
+    "location": "Chengdu, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Alipay Product Lead",
+    "goal": "Wealth management for Gen Z"
+  },
+  {
+    "name": "Ahmed Nour",
+    "sector": "Healthtech",
+    "location": "Khartoum, Sudan",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Doctor",
+    "goal": "Mobile clinics with telemedicine"
+  },
+  {
+    "name": "Lara Novak",
+    "sector": "AI SaaS",
+    "location": "Zagreb, Croatia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Data Scientist",
+    "goal": "Sentiment analysis for customer feedback"
+  },
+  {
+    "name": "Tarek Youssef",
+    "sector": "Logistics",
+    "location": "Alexandria, Egypt",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Aramex Manager",
+    "goal": "Cross-border shipping with AI"
+  },
+  {
+    "name": "Mina Park",
+    "sector": "Retail Tech",
+    "location": "Daegu, South Korea",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Lotte Mart Buyer",
+    "goal": "Smart shelves for inventory tracking"
+  },
+  {
+    "name": "Victor Almeida",
+    "sector": "Clean Energy",
+    "location": "Luanda, Angola",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Oil Engineer",
+    "goal": "Solar microgrids for rural areas"
+  },
+  {
+    "name": "Sofia Khan",
+    "sector": "PropTech",
+    "location": "Islamabad, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Real Estate Broker",
+    "goal": "Virtual staging for property listings"
+  },
+  {
+    "name": "Hadi Amiri",
+    "sector": "FoodTech",
+    "location": "Kabul, Afghanistan",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Food Distributor",
+    "goal": "Farm-to-table delivery apps"
+  },
+  {
+    "name": "Clara Lima",
+    "sector": "Cybersecurity",
+    "location": "Fortaleza, Brazil",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-IT Security Analyst",
+    "goal": "Cloud security for startups"
+  },
+  {
+    "name": "Yasmin Ali",
+    "sector": "Fashion Tech",
+    "location": "Baghdad, Iraq",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Blogger",
+    "goal": "Modest fashion e-commerce"
+  },
+  {
+    "name": "Emil Hansen",
+    "sector": "Mobility",
+    "location": "Aarhus, Denmark",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Bike Sharing Startup",
+    "goal": "Micromobility for small cities"
+  },
+  {
+    "name": "Ayesha Malik",
+    "sector": "Media Tech",
+    "location": "Lahore, Pakistan",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Journalist",
+    "goal": "Podcast platform for South Asian stories"
+  },
+  {
+    "name": "Nasser Al-Farsi",
+    "sector": "EdTech",
+    "location": "Salalah, Oman",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-School Principal",
+    "goal": "Virtual classrooms for remote regions"
+  },
+  {
+    "name": "Livia Santos",
+    "sector": "Biotech",
+    "location": "Manaus, Brazil",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Amazon Researcher",
+    "goal": "Bioplastics from rainforest plants"
+  },
+  {
+    "name": "Karim Diab",
+    "sector": "Gaming",
+    "location": "Amman, Jordan",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Mobile Game Designer",
+    "goal": "Educational games for Arab youth"
+  },
+  {
+    "name": "Wei Liu",
+    "sector": "Fintech",
+    "location": "Guangzhou, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Tencent Product Manager",
+    "goal": "Blockchain-based remittances"
+  },
+  {
+    "name": "Samiha Rahman",
+    "sector": "Healthtech",
+    "location": "Chittagong, Bangladesh",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Nurse",
+    "goal": "Maternal health apps"
+  },
+  {
+    "name": "Marko Vukovic",
+    "sector": "AI SaaS",
+    "location": "Belgrade, Serbia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Machine Learning Engineer",
+    "goal": "Fraud detection for e-commerce"
+  },
+  {
+    "name": "Amal Osman",
+    "sector": "Logistics",
+    "location": "Mogadishu, Somalia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Import-Export Agent",
+    "goal": "Freight tracking for East Africa"
+  },
+  {
+    "name": "Jin Park",
+    "sector": "Retail Tech",
+    "location": "Incheon, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Coupang Operations",
+    "goal": "Cashierless stores with computer vision"
+  },
+  {
+    "name": "Elena Vargas",
+    "sector": "Clean Energy",
+    "location": "La Paz, Bolivia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Renewable Energy Consultant",
+    "goal": "Hydropower for Andean communities"
+  },
+  {
+    "name": "Hassan Al-Mansoori",
+    "sector": "PropTech",
+    "location": "Sharjah, UAE",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Property Developer",
+    "goal": "Smart home integrations"
+  },
+  {
+    "name": "Rita Cheung",
+    "sector": "FoodTech",
+    "location": "Macau, China",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Restaurateur",
+    "goal": "AI-driven menu optimization"
+  },
+  {
+    "name": "Omar Khaled",
+    "sector": "Cybersecurity",
+    "location": "Dammam, Saudi Arabia",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Network Engineer",
+    "goal": "Zero-day vulnerability detection"
+  },
+  {
+    "name": "Zara Ahmed",
+    "sector": "Fashion Tech",
+    "location": "Kolkata, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Textile Designer",
+    "goal": "Upcycled fashion marketplace"
+  },
+  {
+    "name": "Lukas Schmidt",
+    "sector": "Mobility",
+    "location": "Hamburg, Germany",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Automotive Engineer",
+    "goal": "Shared electric scooters for suburbs"
+  },
+  {
+    "name": "Mina Farid",
+    "sector": "Media Tech",
+    "location": "Cairo, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Film Producer",
+    "goal": "Streaming platform for Arab cinema"
+  },
+  {
+    "name": "Abeer Salem",
+    "sector": "EdTech",
+    "location": "Jeddah, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-University Lecturer",
+    "goal": "Coding bootcamps for women"
+  },
+  {
+    "name": "Marina Costa",
+    "sector": "Biotech",
+    "location": "Coimbra, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Microbiologist",
+    "goal": "Algae-based biofuels"
+  },
+  {
+    "name": "Youssef Hamdi",
+    "sector": "Gaming",
+    "location": "Rabat, Morocco",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Game Tester",
+    "goal": "Mobile puzzle games for kids"
+  },
+  {
+    "name": "Li Na",
+    "sector": "Fintech",
+    "location": "Wuhan, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Financial Analyst",
+    "goal": "Robo-advisors for retail investors"
+  },
+  {
+    "name": "Nadia Hassan",
+    "sector": "Healthtech",
+    "location": "Addis Ababa, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Health NGO Worker",
+    "goal": "AI triage for rural clinics"
+  },
+  {
+    "name": "Ivan Petrovic",
+    "sector": "AI SaaS",
+    "location": "Skopje, North Macedonia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Software Developer",
+    "goal": "Chatbots for customer service"
+  },
+  {
+    "name": "Layla Omar",
+    "sector": "Logistics",
+    "location": "Sana’a, Yemen",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Supply Chain Coordinator",
+    "goal": "Last-mile delivery for conflict zones"
+  },
+  {
+    "name": "Soo-Jin Kim",
+    "sector": "Retail Tech",
+    "location": "Gwangju, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Retail Manager",
+    "goal": "Virtual try-ons for cosmetics"
+  },
+  {
+    "name": "Mateo Gomez",
+    "sector": "Clean Energy",
+    "location": "Asunción, Paraguay",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Energy Consultant",
+    "goal": "Biomass energy from agricultural waste"
+  },
+  {
+    "name": "Khalid Al-Nasser",
+    "sector": "PropTech",
+    "location": "Mecca, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Real Estate Investor",
+    "goal": "Crowdfunding for property development"
+  },
+  {
+    "name": "Mei Ling",
+    "sector": "FoodTech",
+    "location": "Phnom Penh, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Food Scientist",
+    "goal": "Plant-based meat alternatives"
+  },
+  {
+    "name": "Faisal Rahim",
+    "sector": "Cybersecurity",
+    "location": "Peshawar, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Cybersecurity Analyst",
+    "goal": "Threat intelligence for critical infrastructure"
+  },
+  {
+    "name": "Aisha Farooq",
+    "sector": "Fashion Tech",
+    "location": "Hyderabad, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Stylist",
+    "goal": "AI-driven fashion recommendations"
+  },
+  {
+    "name": "Jens Olsen",
+    "sector": "Mobility",
+    "location": "Odense, Denmark",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Transport Planner",
+    "goal": "Autonomous delivery robots"
+  },
+  {
+    "name": "Rana Mahmoud",
+    "sector": "Media Tech",
+    "location": "Gaza, Palestine",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Digital Marketer",
+    "goal": "Social media analytics for NGOs"
+  },
+  {
+    "name": "Huda Salem",
+    "sector": "EdTech",
+    "location": "Riyadh, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Education Consultant",
+    "goal": "VR classrooms for special needs"
+  },
+  {
+    "name": "Beatriz Silva",
+    "sector": "Biotech",
+    "location": "Faro, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Marine Biologist",
+    "goal": "Microalgae for carbon capture"
+  },
+  {
+    "name": "Tamer Aziz",
+    "sector": "Gaming",
+    "location": "Luxor, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Game Developer",
+    "goal": "History-themed mobile games"
+  },
+  {
+    "name": "Chen Wei",
+    "sector": "Fintech",
+    "location": "Nanjing, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Blockchain Developer",
+    "goal": "Decentralized lending platforms"
+  },
+  {
+    "name": "Zewdi Tsegaye",
+    "sector": "Healthtech",
+    "location": "Dire Dawa, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Midwife",
+    "goal": "Wearables for maternal monitoring"
+  },
+  {
+    "name": "Nikola Jovanovic",
+    "sector": "AI SaaS",
+    "location": "Novi Sad, Serbia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-AI Researcher",
+    "goal": "Automated content moderation"
+  },
+  {
+    "name": "Safia Ali",
+    "sector": "Logistics",
+    "location": "Hargeisa, Somaliland",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Trade Facilitator",
+    "goal": "Digital customs clearance"
+  },
+  {
+    "name": "Hye-Jin Park",
+    "sector": "Retail Tech",
+    "location": "Ulsan, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Fashion Retail",
+    "goal": "AI pricing for e-commerce"
+  },
+  {
+    "name": "Diego Salazar",
+    "sector": "Clean Energy",
+    "location": "Cusco, Peru",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Solar Installer",
+    "goal": "Solar kits for off-grid communities"
+  },
+  {
+    "name": "Yasser Al-Mutairi",
+    "sector": "PropTech",
+    "location": "Jubail, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Property Analyst",
+    "goal": "AI-driven property valuations"
+  },
+  {
+    "name": "Sokha Meas",
+    "sector": "FoodTech",
+    "location": "Siem Reap, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Food Vendor",
+    "goal": "Organic spice export platform"
+  },
+  {
+    "name": "Bilal Siddiqui",
+    "sector": "Cybersecurity",
+    "location": "Quetta, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Penetration Tester",
+    "goal": "Automated vulnerability scanning"
+  },
+  {
+    "name": "Priya Nair",
+    "sector": "Fashion Tech",
+    "location": "Kochi, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Buyer",
+    "goal": "Rental platform for luxury apparel"
+  },
+  {
+    "name": "Mads Nielsen",
+    "sector": "Mobility",
+    "location": "Esbjerg, Denmark",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Logistics Manager",
+    "goal": "Electric cargo bikes for urban delivery"
+  },
+  {
+    "name": "Lina Mahmoud",
+    "sector": "Media Tech",
+    "location": "Ramallah, Palestine",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Content Creator",
+    "goal": "Influencer marketing analytics"
+  },
+  {
+    "name": "Reem Al-Ghamdi",
+    "sector": "EdTech",
+    "location": "Medina, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-STEM Educator",
+    "goal": "Robotics kits for schools"
+  },
+  {
+    "name": "Ana Ribeiro",
+    "sector": "Biotech",
+    "location": "Porto, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Biochemist",
+    "goal": "Enzyme engineering for waste recycling"
+  },
+  {
+    "name": "Khaled Mostafa",
+    "sector": "Gaming",
+    "location": "Aswan, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Indie Developer",
+    "goal": "Mythology-based strategy games"
+  },
+  {
+    "name": "Zhang Wei",
+    "sector": "Fintech",
+    "location": "Hangzhou, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Financial Planner",
+    "goal": "AI-driven credit scoring"
+  },
+  {
+    "name": "Selam Tesfaye",
+    "sector": "Healthtech",
+    "location": "Bahir Dar, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Community Health Worker",
+    "goal": "Mobile diagnostics for infectious diseases"
+  },
+  {
+    "name": "Dragan Petrov",
+    "sector": "AI SaaS",
+    "location": "Pristina, Kosovo",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-ML Engineer",
+    "goal": "Predictive analytics for supply chains"
+  },
+  {
+    "name": "Hanan Omar",
+    "sector": "Logistics",
+    "location": "Djibouti, Djibouti",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Port Operations",
+    "goal": "Container tracking with IoT"
+  },
+  {
+    "name": "Min-Jae Kim",
+    "sector": "Retail Tech",
+    "location": "Jeju, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Retail Tech Startup",
+    "goal": "Augmented reality for in-store navigation"
+  },
+  {
+    "name": "Felipe Rojas",
+    "sector": "Clean Energy",
+    "location": "Iquique, Chile",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Wind Farm Technician",
+    "goal": "Kite-based wind energy systems"
+  },
+  {
+    "name": "Saud Al-Otaibi",
+    "sector": "PropTech",
+    "location": "Hail, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Real Estate Consultant",
+    "goal": "Blockchain-based property registries"
+  },
+  {
+    "name": "Chantha Sok",
+    "sector": "FoodTech",
+    "location": "Battambang, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Farmer Cooperative",
+    "goal": "Traceability for organic rice"
+  },
+  {
+    "name": "Asim Khan",
+    "sector": "Cybersecurity",
+    "location": "Multan, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Security Architect",
+    "goal": "AI-driven intrusion detection"
+  },
+  {
+    "name": "Anjali Menon",
+    "sector": "Fashion Tech",
+    "location": "Pune, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Curator",
+    "goal": "Personalized styling subscriptions"
+  },
+  {
+    "name": "Soren Hansen",
+    "sector": "Mobility",
+    "location": "Aalborg, Denmark",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Automotive Designer",
+    "goal": "Modular electric vehicles"
+  },
+  {
+    "name": "Sana Abu-Jaber",
+    "sector": "Media Tech",
+    "location": "Nablus, Palestine",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Radio Host",
+    "goal": "Crowdsourced news platform"
+  },
+  {
+    "name": "Laila Al-Zahrani",
+    "sector": "EdTech",
+    "location": "Abha, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Art Teacher",
+    "goal": "Digital art education for kids"
+  },
+  {
+    "name": "Carla Mendes",
+    "sector": "Biotech",
+    "location": "Evora, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Geneticist",
+    "goal": "CRISPR for crop resilience"
+  },
+  {
+    "name": "Omar Tarek",
+    "sector": "Gaming",
+    "location": "Mansoura, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-3D Artist",
+    "goal": "Multiplayer adventure games"
+  },
+  {
+    "name": "Liu Yang",
+    "sector": "Fintech",
+    "location": "Qingdao, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Fintech Product Manager",
+    "goal": "Peer-to-peer lending with AI"
+  },
+  {
+    "name": "Rahel Getachew",
+    "sector": "Healthtech",
+    "location": "Jimma, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Pharmacist",
+    "goal": "Generic drug distribution apps"
+  },
+  {
+    "name": "Viktor Stojanovski",
+    "sector": "AI SaaS",
+    "location": "Bitola, North Macedonia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-NLP Researcher",
+    "goal": "AI translation for Balkan languages"
+  },
+  {
+    "name": "Amina Farah",
+    "sector": "Logistics",
+    "location": "Garowe, Somalia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Freight Forwarder",
+    "goal": "Digital freight marketplace"
+  },
+  {
+    "name": "Ji-Hoon Lee",
+    "sector": "Retail Tech",
+    "location": "Pohang, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Retail Analyst",
+    "goal": "Dynamic pricing for grocery stores"
+  },
+  {
+    "name": "Andres Paredes",
+    "sector": "Clean Energy",
+    "location": "Trujillo, Peru",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Energy Auditor",
+    "goal": "Energy-efficient cooling systems"
+  },
+  {
+    "name": "Fahad Al-Rashid",
+    "sector": "PropTech",
+    "location": "Buraidah, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Property Manager",
+    "goal": "Tenant screening with AI"
+  },
+  {
+    "name": "Sokunthea Lim",
+    "sector": "FoodTech",
+    "location": "Kampong Cham, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Food Processor",
+    "goal": "Freeze-dried fruit exports"
+  },
+  {
+    "name": "Hamza Malik",
+    "sector": "Cybersecurity",
+    "location": "Faisalabad, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Cloud Security Engineer",
+    "goal": "Secure file sharing for enterprises"
+  },
+  {
+    "name": "Neha Gupta",
+    "sector": "Fashion Tech",
+    "location": "Jaipur, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Textile Exporter",
+    "goal": "Handcrafted fashion marketplace"
+  },
+  {
+    "name": "Lars Pedersen",
+    "sector": "Mobility",
+    "location": "Viborg, Denmark",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Transport Engineer",
+    "goal": "Hyperloop feasibility studies"
+  },
+  {
+    "name": "Hiba Qasim",
+    "sector": "Media Tech",
+    "location": "Hebron, Palestine",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Social Media Manager",
+    "goal": "Video content monetization platform"
+  },
+  {
+    "name": "Noura Al-Jaber",
+    "sector": "EdTech",
+    "location": "Taif, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Math Tutor",
+    "goal": "Math gamification for middle schools"
+  },
+  {
+    "name": "Ines Ferreira",
+    "sector": "Biotech",
+    "location": "Braga, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Pharmaceutical Researcher",
+    "goal": "Nanoparticles for drug delivery"
+  },
+  {
+    "name": "Amr Salem",
+    "sector": "Gaming",
+    "location": "Port Said, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Game Animator",
+    "goal": "Racing games for mobile"
+  },
+  {
+    "name": "Wang Lei",
+    "sector": "Fintech",
+    "location": "Suzhou, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Investment Advisor",
+    "goal": "AI-driven portfolio management"
+  },
+  {
+    "name": "Tigist Abebe",
+    "sector": "Healthtech",
+    "location": "Gondar, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Health Educator",
+    "goal": "Nutrition tracking for schools"
+  },
+  {
+    "name": "Milos Jovanovic",
+    "sector": "AI SaaS",
+    "location": "Kragujevac, Serbia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Computer Vision Engineer",
+    "goal": "Facial recognition for retail"
+  },
+  {
+    "name": "Fadumo Abdi",
+    "sector": "Logistics",
+    "location": "Bosaso, Somalia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Shipping Agent",
+    "goal": "Port automation with AI"
+  },
+  {
+    "name": "Soo-Yeon Kim",
+    "sector": "Retail Tech",
+    "location": "Changwon, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Retail Buyer",
+    "goal": "Personalized loyalty programs"
+  },
+  {
+    "name": "Javier Morales",
+    "sector": "Clean Energy",
+    "location": "Arequipa, Peru",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Renewables Engineer",
+    "goal": "Solar thermal for industrial heat"
+  },
+  {
+    "name": "Turki Al-Saud",
+    "sector": "PropTech",
+    "location": "Tabuk, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Real Estate Developer",
+    "goal": "Digital twins for property management"
+  },
+  {
+    "name": "Vannak Seng",
+    "sector": "FoodTech",
+    "location": "Sihanoukville, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Fishery Manager",
+    "goal": "Sustainable aquaculture tech"
+  },
+  {
+    "name": "Zubair Khan",
+    "sector": "Cybersecurity",
+    "location": "Sargodha, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Security Researcher",
+    "goal": "Behavioral biometrics for authentication"
+  },
+  {
+    "name": "Riya Sharma",
+    "sector": "Fashion Tech",
+    "location": "Surat, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Retail",
+    "goal": "AI-driven trend forecasting"
+  },
+  {
+    "name": "Mikkel Jensen",
+    "sector": "Mobility",
+    "location": "Herning, Denmark",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Automotive Startup",
+    "goal": "Flying taxis for urban areas"
+  },
+  {
+    "name": "Dalia Abu-Jaber",
+    "sector": "Media Tech",
+    "location": "Bethlehem, Palestine",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Digital Editor",
+    "goal": "AI-curated news feeds"
+  },
+  {
+    "name": "Maha Al-Ghamdi",
+    "sector": "EdTech",
+    "location": "Jizan, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Science Teacher",
+    "goal": "Virtual labs for chemistry"
+  },
+  {
+    "name": "Rita Almeida",
+    "sector": "Biotech",
+    "location": "Viseu, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Biotechnologist",
+    "goal": "Fermentation for alternative proteins"
+  },
+  {
+    "name": "Hossam Ali",
+    "sector": "Gaming",
+    "location": "Suez, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Game Programmer",
+    "goal": "Card games for mobile"
+  },
+  {
+    "name": "Zhou Hao",
+    "sector": "Fintech",
+    "location": "Xiamen, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Crypto Trader",
+    "goal": "Tokenized asset trading"
+  },
+  {
+    "name": "Etenesh Hailu",
+    "sector": "Healthtech",
+    "location": "Debre Markos, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Health Officer",
+    "goal": "AI chatbots for mental health"
+  },
+  {
+    "name": "Stefan Mitrovic",
+    "sector": "AI SaaS",
+    "location": "Subotica, Serbia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-AI Developer",
+    "goal": "Automated billing for SaaS"
+  },
+  {
+    "name": "Halima Yusuf",
+    "sector": "Logistics",
+    "location": "Kismayo, Somalia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Trade Coordinator",
+    "goal": "Cold chain logistics for seafood"
+  },
+  {
+    "name": "Hae-Won Kim",
+    "sector": "Retail Tech",
+    "location": "Ansan, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-E-commerce Manager",
+    "goal": "Voice commerce for retail"
+  },
+  {
+    "name": "Santiago Vargas",
+    "sector": "Clean Energy",
+    "location": "Piura, Peru",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Solar Engineer",
+    "goal": "Floating solar farms"
+  },
+  {
+    "name": "Nasser Al-Ghamdi",
+    "sector": "PropTech",
+    "location": "Najran, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Property Broker",
+    "goal": "AI leasing assistants"
+  },
+  {
+    "name": "Sophea Chhun",
+    "sector": "FoodTech",
+    "location": "Kampot, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Food Exporter",
+    "goal": "Pepper traceability with blockchain"
+  },
+  {
+    "name": "Usman Sheikh",
+    "sector": "Cybersecurity",
+    "location": "Sialkot, Pakistan",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Network Security",
+    "goal": "Secure IoT device management"
+  },
+  {
+    "name": "Shalini Verma",
+    "sector": "Fashion Tech",
+    "location": "Lucknow, India",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Fashion Influencer",
+    "goal": "Virtual wardrobe management"
+  },
+  {
+    "name": "Frederik Nielsen",
+    "sector": "Mobility",
+    "location": "Horsens, Denmark",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Urban Planner",
+    "goal": "Smart traffic management systems"
+  },
+  {
+    "name": "Rania Odeh",
+    "sector": "Media Tech",
+    "location": "Jerusalem, Israel",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Media Planner",
+    "goal": "Ad optimization for podcasts"
+  },
+  {
+    "name": "Amal Al-Zahrani",
+    "sector": "EdTech",
+    "location": "Yanbu, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-English Tutor",
+    "goal": "AI pronunciation coaches"
+  },
+  {
+    "name": "Sofia Cardoso",
+    "sector": "Biotech",
+    "location": "Aveiro, Portugal",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Bioengineer",
+    "goal": "Bioprinting for tissue repair"
+  },
+  {
+    "name": "Karim Ezzat",
+    "sector": "Gaming",
+    "location": "Damietta, Egypt",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Game Designer",
+    "goal": "Fantasy RPGs for mobile"
+  },
+  {
+    "name": "Sun Li",
+    "sector": "Fintech",
+    "location": "Fuzhou, China",
+    "funding_stage": "Series B",
+    "past_experience": "Ex-Finance Consultant",
+    "goal": "Micro-investing for students"
+  },
+  {
+    "name": "Yodit Mengistu",
+    "sector": "Healthtech",
+    "location": "Dessie, Ethiopia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Health Volunteer",
+    "goal": "Mobile pharmacies for rural areas"
+  },
+  {
+    "name": "Aleksandar Nikolic",
+    "sector": "AI SaaS",
+    "location": "Cacak, Serbia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Software Engineer",
+    "goal": "AI-driven CRM integrations"
+  },
+  {
+    "name": "Fartun Hassan",
+    "sector": "Logistics",
+    "location": "Berbera, Somalia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Logistics Coordinator",
+    "goal": "Digital warehousing solutions"
+  },
+  {
+    "name": "Ji-Soo Kim",
+    "sector": "Retail Tech",
+    "location": "Suwon, South Korea",
+    "funding_stage": "Series A",
+    "past_experience": "Ex-Retail Operations",
+    "goal": "Smart carts for supermarkets"
+  },
+  {
+    "name": "Carlos Espinoza",
+    "sector": "Clean Energy",
+    "location": "Huancayo, Peru",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Energy Planner",
+    "goal": "Micro-hydropower for villages"
+  },
+  {
+    "name": "Faisal Al-Ghamdi",
+    "sector": "PropTech",
+    "location": "Khamis Mushait, Saudi Arabia",
+    "funding_stage": "Pre-Seed",
+    "past_experience": "Ex-Real Estate Agent",
+    "goal": "Virtual property auctions"
+  },
+  {
+    "name": "Vuthy Keo",
+    "sector": "FoodTech",
+    "location": "Takeo, Cambodia",
+    "funding_stage": "Seed",
+    "past_experience": "Ex-Food Distributor",
+    "goal": "Fermented food exports"
+  },
+  {
+    "name": "Haroon Rasheed",
+    "sector": "Cybersecurity",
+    "location": "Gujranwala, Pakistan",
+    "funding_stage": "Series A",
+    "past_ex

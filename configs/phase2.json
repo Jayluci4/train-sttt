@@ -1,0 +1,4 @@
+{
+  "model_name": "microsoft/Phi-3.5-mini",
+  "output_dir": "./output/founder_vc_phase2"
+}

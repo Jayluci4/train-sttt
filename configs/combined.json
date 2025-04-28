@@ -1,0 +1,102 @@
+{
+  "phase1": {
+    "model_name": "microsoft/Phi-3.5-vision-instruct",
+    "output_dir": "./output/vision_phase1",
+    "data_path": "./data/company_dataset.csv",
+    "image_dir": "./data/company_images",
+    
+    "micro_batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "max_seq_length": 512,
+    "learning_rate": 5e-5,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "warmup_ratio": 0.1,
+    "epochs": 2,
+    
+    "use_4bit": true,
+    "bnb_4bit_compute_dtype": "float16",
+    "use_peft": true,
+    "peft_method": "lora",
+    "lora_r": 16,
+    "lora_alpha": 32,
+    
+    "use_flash_attention": true,
+    "num_image_crops": 8,
+    
+    "device": "cuda",
+    "mixed_precision": true,
+    "seed": 42,
+    
+    "use_intrinsic_dimension": true,
+    "use_plasticity_reweighter": true,
+    "use_dynamic_mi": true,
+    "use_dynamic_architecture": true,
+    "use_metaplasticity": true,
+    
+    "logging_steps": 10,
+    "save_steps": 100,
+    "eval_steps": 50
+  },
+  
+  "phase2": {
+    "model_name": null,
+    "output_dir": "./output/founder_vc_phase2",
+    "founder_profiles": "./data/1000 Founder Profiles.json",
+    "founder_vc_matches": "./data/Founder-VC Match Pairs 101-200.markdown",
+    
+    "batch_size": 8,
+    "max_seq_length": 768,
+    "learning_rate": 2e-5,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "training_steps": 5000,
+    
+    "use_peft": true,
+    "peft_method": "lora",
+    
+    "device": "cuda",
+    "mixed_precision": true,
+    "seed": 42,
+    
+    "enable_sttt": true,
+    "sttt_config": {
+      "cycle_length": 100,
+      "study_steps": 80,
+      "t1_steps": 10,
+      "t2_steps": 5,
+      "t3_steps": 5,
+      "t1_loss_threshold": 0.2,
+      "t2_loss_threshold": 0.3,
+      "t3_loss_threshold": 0.4,
+      "log_frequency": 10
+    },
+    
+    "enable_curriculum": true,
+    "curriculum_config": {
+      "num_curriculum_phases": 5,
+      "difficulty_metric": "loss",
+      "auto_progress": true,
+      "log_frequency": 100
+    },
+    
+    "enable_hard_examples": true,
+    "hard_example_config": {
+      "amplification_factor": 2.0,
+      "difficulty_threshold": 0.7,
+      "max_examples_percentage": 0.3
+    },
+    
+    "enable_latent_reg": true,
+    "latent_reg_config": {
+      "l1_penalty_weight": 1e-5,
+      "orthogonal_penalty_weight": 1e-5,
+      "dynamic_penalty_adjustment": true,
+      "schedule_type": "cosine"
+    },
+    
+    "logging_steps": 10,
+    "save_steps": 100,
+    "eval_steps": 50
+  }
+} 
